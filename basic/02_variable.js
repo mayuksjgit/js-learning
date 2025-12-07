@@ -1,4 +1,4 @@
-console.log("mayuk")
+// console.log("mayuk")
 
 
 let k = "sksksk"
